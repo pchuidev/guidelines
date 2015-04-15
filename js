@@ -1,1 +1,0 @@
-JS Guidelines go here
