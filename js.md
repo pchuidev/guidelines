@@ -1,3 +1,22 @@
+### PCH UI JS Guidelines
+
+## Variable Declarations
+
+## For Loop
+
+## While Loop
+
+## Case Statement
+
+## Function Declaration
+
+## Namespace
+
+## Class Declaration
+
+## Tabs and Spacing
+
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Airbnb JavaScript Style Guide() {
