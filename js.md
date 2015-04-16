@@ -1,6 +1,8 @@
-### PCH UI JS Guidelines
+#### PCH UI JS Guidelines
 
 ## Variable Declarations
+
+## Array
 
 ## For Loop
 
