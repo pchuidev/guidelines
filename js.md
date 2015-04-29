@@ -23,6 +23,8 @@ for (var i = 0, len = myArray.length; i < len; i++) {
 
 ## Namespace
 
+var your_namespace = your_namespace || {};
+
 ## Objects
 
 
