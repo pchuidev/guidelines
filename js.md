@@ -10,6 +10,10 @@
 
 ## For Loop
 
+for (var i = 0, len = myArray.length; i < len; i++) {
+
+}
+
 
 ## While Loop
 
