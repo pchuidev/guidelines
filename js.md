@@ -10,6 +10,7 @@
 
 ## For Loop
 
+
 ## While Loop
 
 ## Case Statement
@@ -34,7 +35,38 @@
 
 ## Closures
 
+## Comments
 
+  - Use `/** ... */` for multiline comments. Include a description, specify types and values for all parameters and return values.
+
+    ```javascript
+    // bad
+    // make() returns a new element
+    // based on the passed in tag name
+    //
+    // @param {String} tag
+    // @return {Element} element
+    function make(tag) {
+
+      // ...stuff...
+
+      return element;
+    }
+
+    // good
+    /**
+     * make() returns a new element
+     * based on the passed in tag name
+     *
+     * @param {String} tag
+     * @return {Element} element
+     */
+    function make(tag) {
+
+      // ...stuff...
+
+      return element;
+    }
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
