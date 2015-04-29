@@ -20,6 +20,18 @@
 
 ## Objects
 
+
+  - Use the literal syntax for object creation.
+
+    ```javascript
+    // bad
+    const item = new Object();
+
+    // good
+    const item = {};
+    ```
+
+
 ## Closures
 
 
